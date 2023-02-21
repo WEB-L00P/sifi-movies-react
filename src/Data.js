@@ -119,4 +119,12 @@ export const Data = [
     year: 2022,
     link: "https://www.imdb.com/title/tt10648342/?ref_=adv_li_tt",
   },
+  {
+    id: 16,
+    name: "Fast X",
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",
+    year: 2023,
+    link: "https://m.imdb.com/title/tt5433140/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=656d0330-7da8-4215-a31e-d1da533c7afc&pf_rd_r=WKA5VHCQZSKQ9S1VHY97&pf_rd_s=top-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=m_chtmvm_tt_7",
+  },
 ];
